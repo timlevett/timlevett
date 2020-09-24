@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm currently working as an Engineering Manager at the great place of Sonatype, a leader in software supply chain management. In a previous life I worked as an engineer and database administrator.
+- I'm currently working on a few hobby projects in TypeScript and Angular while also trying to find time to contribute to Open Source.
+
 <!--
 **timlevett/timlevett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
