@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a Director, Engineering at the great place of Sonatype, a leader in software supply chain management. In a previous life I worked as an engineer and database administrator.
+- I am the Director of Engineering - Complex Systems at Sonatype, a leader in software supply chain management. In a previous life I worked as an engineer and database administrator.
 - I'm currently working on a few hobby projects in TypeScript and Angular while also trying to find time to contribute to Open Source.
 
 <!--
